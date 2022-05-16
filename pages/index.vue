@@ -31,6 +31,7 @@
     </header>
     <!-- header section end here -->
 
+
     <!-- main section start here -->
     <main class="max-w-screen-2xl mx-auto md:px-8 px-3.5 md:py-[27px] py-3">
         <div class="md:flex items-center md:justify-between">
@@ -158,6 +159,7 @@
         </div>
     </main>
     <!-- main section end here -->
+    
     
     <!-- footer section start here -->
     <footer class="w-full bg-white h-[32px] border-t border-[#ACCDF0]">
